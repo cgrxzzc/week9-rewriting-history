@@ -3,3 +3,4 @@ Waffles
 - eggs
 - milk
 - butter
+- sugar
